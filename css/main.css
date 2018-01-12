@@ -1,0 +1,49 @@
+/*THIS IS THE UPDATE TO BOOTSTRAP 4.000 BETA 3*/
+
+/*<link rel="stylesheet" href="https://maxcdn: ;.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">*/
+
+h2, h2 {
+    font-family: 'Playfair Display', Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    color: white;
+}
+
+body {
+    margin: 0;
+    font-family: 'Didact Gothic', Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #f8f9fa;
+    text-align: left;
+    background-color: #C48D3F;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color:white;
+}
+
+h2, h2 {
+    font-family: 'Playfair Display', Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    /* align-items: center; */
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+}
+
+a.fa {
+    font-size: 2rem;
+    color: white;
+}
+
+a.fa:hover {
+    text-decoration: none;
+    color: black;
+}
